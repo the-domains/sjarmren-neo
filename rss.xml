@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Sjarmøren Neo!]]></title>
         <description><![CDATA[Sjarmøren Neo!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sjarmren-neo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 19:52:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 20:11:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sjarmren-neo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Neo13]]></title>
+            <description><![CDATA[<article><h1>Neo13</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b40a8c677387f7377eaebc31498eca7e79edb16.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sjarmren-neo/neo13/index.html</link>
+            <guid isPermaLink="false">40d8f42e-d16c-4d53-8ff0-79c2f5e4d12c</guid>
+            <pubDate>Tue, 15 Dec 2015 20:11:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neo20]]></title>
-            <description><![CDATA[<article><h1>Neo20</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9119a9562125cc6ba8278d212601eb594403b252.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Neo20</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1955feb133cf99d307e511a7351c73b6f7274422.jpg"></article>]]></description>
             <link>https://www.dropbox.com/s/v4t0new6p684mpu/co6a0885-2.jpg?dl=0</link>
             <guid isPermaLink="false">e4cad322-9e69-4645-9dea-a0f539b6d8b1</guid>
             <pubDate>Tue, 15 Dec 2015 19:52:44 GMT</pubDate>
