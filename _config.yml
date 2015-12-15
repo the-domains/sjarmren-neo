@@ -1,8 +1,19 @@
-layout_spectrum: 0.01971326
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0
 color:
   saturation: 0.6933426
   brandStrength: 0
-  lightness: 0.7040691
   rhythmicContrast: 0.5329747
   brandColors:
     - '#FF6700'
@@ -10,5 +21,6 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-typography_spectrum: 0
+  lightness: 0.7040691
+layout_spectrum: 0.4047218
 name: 'Sjarmøren Neo!'
