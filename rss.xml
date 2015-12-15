@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sjarmøren Neo!]]></title>
+        <description><![CDATA[Sjarmøren Neo!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 19:00:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Neo13]]></title>
+            <description><![CDATA[<article><h1>Neo13</h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b40a8c677387f7377eaebc31498eca7e79edb16.jpg"></article>]]></description>
+            <link>undefinedneo13/index.html</link>
+            <guid isPermaLink="false">40d8f42e-d16c-4d53-8ff0-79c2f5e4d12c</guid>
+            <pubDate>Tue, 15 Dec 2015 19:00:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
